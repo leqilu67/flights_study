@@ -5,6 +5,7 @@
 ## Dataset
 
 This document explores a dataset containing flight arrival and departure details for all commercial flights within the USA, from October 1987 to April 2008.
+Full dataset could be downloaded here: https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
 
 ## Summary of Findings
 
